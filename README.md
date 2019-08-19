@@ -8,7 +8,7 @@ Here we test how adding more processors would effect 3 different problems (using
   ### 1. Parallel Conway's Game of Life .       
       - Built in C, it splits the board into segments for each worker to process.
       - Information is sent to and from the head node at the start and end of each generation.
-      
+      ![chartgraph](https://github.com/rbrtknwls/Carleton-SCSI-2019/blob/master/conwaysChart.png)
       - We found that the processing time for each generation was very small.
       - We found that the amount of time spent communicating became the bottle neck.
       - adding more processors made the game compute much slower.
