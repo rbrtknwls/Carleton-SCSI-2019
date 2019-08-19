@@ -33,3 +33,8 @@ Here we test how adding more processors would effect 3 different problems (using
       - We found that the processing time was the major bottle neck.
       - Communication time was fast.
       - Adding more processors made the code compute much faster.
+      
+# Natural Language Processing . 
+   - What I did week 2 of the program! (week 3 was computer music... I forgot to save the code).
+   - Used python to do data abstraction on different text files.
+   - Also created an AI to generate text.
